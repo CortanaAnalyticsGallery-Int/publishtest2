@@ -1,0 +1,7 @@
+{
+  "environments": {
+    "staging": {
+      "GalleryId": "cf161c8127424140b5f109ef6d868538"
+    }
+  }
+}
